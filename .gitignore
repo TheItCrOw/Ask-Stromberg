@@ -3,6 +3,7 @@
 /obsolete
 /transcripts
 /videos
+/src/stromberg-ai
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
