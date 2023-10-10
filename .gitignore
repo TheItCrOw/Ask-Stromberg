@@ -4,6 +4,7 @@
 /transcripts
 /videos
 /src/stromberg-ai
+/ask-stromberg-env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
